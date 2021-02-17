@@ -7,16 +7,16 @@
 ### Put .emt file in folder "emtfile"
 
 
-## FOR WINDOWS
+### FOR WINDOWS
 
 
-### click the .exe file "emt2csv.exe"
+#### click the .exe file "emt2csv.exe"
 
 
-## FOR OTHER OS
+### FOR OTHER OS
 
 
-### execute emt2csv.py
+#### execute emt2csv.py
 
 
-### csv file will be created in the folder "csvfile"
+#### csv file will be created in the folder "csvfile"
